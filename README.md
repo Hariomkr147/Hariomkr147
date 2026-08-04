@@ -1,286 +1,324 @@
-[<div align="center">
+<div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hariom%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FLLM%20Systems%20%7C%20Full-Stack%20Developer&descAlignY=52&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1446,50:4c1d95,100:7c3aed&height=180&section=header&text=Hariom%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-powered+products;LLM+Orchestration+%26+RAG+Systems;Full-Stack+%2B+Data-Driven+Engineering;Data+Science+%40+IIT+Madras" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=9D7CFF&center=true&vCenter=true&width=900&lines=Data+Science+%26+Applications+student+at+IIT+Madras;Software+Engineering+%7C+AI%2FML+%7C+Full-Stack+Development;Python+%7C+SQL+%7C+FastAPI+%7C+React+%7C+Flask+%7C+Vue.js" alt="Typing SVG" />
 
-![IIT Madras](https://img.shields.io/badge/IIT%20Madras-BS%20in%20Data%20Science%20%26%20Applications-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Begusarai%2C%20Bihar%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/IIT%20Madras-Student-5B21B6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science%20%26%20Applications-BS-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programming%20%26%20Application%20Development-Diploma-8B5CF6?style=for-the-badge&logo=codewars&logoColor=white" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariomiitm/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23f2004225@ds.study.iitm.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hariomkr147)
+<p>
+  <img src="https://img.shields.io/badge/Location-Begusarai%2C%20Bihar-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="mailto:hari18525@gmail.com"><img src="https://img.shields.io/badge/Email-hari18525%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Hariomkr147"><img src="https://img.shields.io/badge/GitHub-Hariomkr147-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hariomiitm/"><img src="https://img.shields.io/badge/LinkedIn-Hariom%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Hariomkr147?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-GitHub%20Repos-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hariomkr147&color=6D28D9&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Hariomkr147?style=flat-square&color=6D28D9&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/Hariomkr147?style=flat-square&color=6D28D9&label=Total+Stars&logo=github)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Hariomkr147&style=for-the-badge&color=7c3aed" />
+  <img src="https://img.shields.io/github/followers/Hariomkr147?style=for-the-badge&color=8b5cf6&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Hariomkr147?affiliation=OWNER&style=for-the-badge&color=a855f7&label=Stars" />
+</p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-- 🎓 Data Science and Applications student at **IIT Madras**, focused on backend engineering, full-stack systems, and applied AI/ML.
-- 🤖 Design and ship **LLM-orchestrated systems** — multi-provider routing, retrieval-augmented generation (RAG), and grounding/validation pipelines.
-- 🧩 Build **full-stack products** end-to-end — Flask/FastAPI backends, React/Vue frontends, relational data models, and REST APIs.
-- 📊 Bring a **product & business mindset** to engineering — Excel/Power BI financial modeling, KPI analysis, and data-backed recommendations.
-- ⚙️ Comfortable across the stack: database design, API architecture, model routing/failover, and CI-friendly GitHub workflows.
-- 🌱 Continuously exploring generative AI, cloud computing, and scalable data systems through IIT Madras coursework and independent projects.
+I am a Data Science and Applications student at IIT Madras with practical experience in machine learning, data analysis, statistical modeling, data visualization, and full-stack web development. I build reliable software with a product mindset, from backend systems and database design to interactive web applications and AI-assisted workflows.
 
-**🎯 Currently Open To:** Software Engineering · AI/ML Engineering · Full-Stack Development · Data Science Roles & Internships
+My work spans Python, SQL, Flask, FastAPI, React, Vue.js, SQLite, PostgreSQL, SQLAlchemy, REST APIs, and GitHub-based collaboration. I also have exposure to generative AI, cloud computing, text analysis, and applied problem solving through coursework, workshops, and project work.
+
+**Open to:** software engineering, backend engineering, full-stack development, AI/ML, and product engineering roles.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp" />
-</p>
+<table>
+<tr>
+<td valign="top" width="25%">
 
-**Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=react,vuejs,bootstrap,html,css" />
-</p>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,java,sql,javascript" />
 
-**Backend & Databases**
-<p>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,sqlalchemy,sqlite,postgres" />
-</p>
+</td>
+<td valign="top" width="25%">
 
-**Cloud, DevOps & Tooling**
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,redis,vscode,postman" />
-</p>
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,vue,html,css,bootstrap" />
 
----
+</td>
+<td valign="top" width="25%">
 
-## 🤖 AI / ML Expertise
+**Backend & Databases**  
+<img src="https://skillicons.dev/icons?i=flask,fastapi,postgresql,sqlite" />
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| LLM Orchestration | ⭐⭐⭐⭐☆ | Multi-provider routing (Gemini, Groq, OpenRouter) with role-based model selection, retry/failover classification |
-| Retrieval-Augmented Generation (RAG) | ⭐⭐⭐⭐☆ | Source-grounded validation pipelines combining lexical claim-matching with model-based adjudication |
-| Machine Learning | ⭐⭐⭐⭐☆ | Scikit-learn, XGBoost, LightGBM, feature engineering, forecasting & regression models |
-| Prompt Engineering | ⭐⭐⭐⭐☆ | Role-based system prompts, structured JSON/schema-constrained outputs |
-| Multi-Agent Systems | ⭐⭐⭐☆☆ | Agent-coordinator patterns routing extractor/planner/generator/auditor roles |
-| Data Analysis & BI | ⭐⭐⭐⭐☆ | Excel financial modeling, pivot tables, Power BI dashboards, ratio analysis |
+</td>
+<td valign="top" width="25%">
+
+**Cloud, DevOps & Tooling**  
+<img src="https://skillicons.dev/icons?i=git,github,redis,docker" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## AI / ML Expertise
+
+<table>
+<thead>
+<tr>
+<th>Domain</th>
+<th>Proficiency</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Data preprocessing</td>
+<td>Strong</td>
+<td>Cleaning, feature engineering, transformation, and structured dataset preparation for model training and evaluation.</td>
+</tr>
+<tr>
+<td>Machine learning</td>
+<td>Strong</td>
+<td>Model building and evaluation using scikit-learn, LightGBM, XGBoost, and statistical performance analysis.</td>
+</tr>
+<tr>
+<td>Data analysis</td>
+<td>Strong</td>
+<td>Exploratory analysis, visualization, and pattern discovery with Python, NumPy, Pandas, and Matplotlib.</td>
+</tr>
+<tr>
+<td>LLM workflows</td>
+<td>Intermediate</td>
+<td>Multi-provider orchestration, response routing, retry handling, source-grounding validation, and RAG-style pipelines.</td>
+</tr>
+<tr>
+<td>Applied AI systems</td>
+<td>Intermediate</td>
+<td>Document processing, structured output generation, and backend-integrated AI experiences with live progress streaming.</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## Featured Projects
 
 <details>
-<summary><b>🧩 Gyantra — AI Orchestration Pipeline for Education</b></summary>
-<br>
+<summary><strong>Gyantra</strong> — FastAPI, React, LLM Orchestration, RAG</summary>
 
-Converts educational documents into structured, source-grounded Teacher Knowledge Packages — lesson plans, classroom activities, assessments, and misconception analysis — through a 10-stage AI pipeline.
+<br/>
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | FastAPI, React, Vite, SQLite, Docker, Gemini / Groq / OpenRouter |
-| **Scale** | 10-stage async orchestration pipeline with per-role model routing |
-| **Performance** | SSE-based live progress streaming; disk-cached LLM responses |
-| **Security** | Origin-tagged content (`source` vs `pedagogical`) with two-pass grounding/hallucination audit |
-| **Impact** | Turns a single chapter upload into a full, citable teacher-ready package in minutes |
-| **Repository** | [github.com/Hariomkr147/Gyantra](https://github.com/Hariomkr147/Gyantra) |
+Built a 10-stage AI orchestration pipeline that converts educational documents into structured, source-grounded Teacher Knowledge Packages with lesson plans, activities, assessments, and misconception analysis.
 
-Built a custom async orchestrator instead of an agent framework, since the pipeline is a fixed, auditable sequence rather than a self-directed agent — enabling per-stage failure handling (critical stages abort, others degrade gracefully).
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| FastAPI, React/Vite, Gemini, Groq, OpenRouter, RAG, SSE, caching | Document-to-package AI workflow | Live progress streaming, retry/failover handling, disk-based caching | Source-grounding validation with claim matching and adjudication | Generates usable teaching material from raw documents | [GitHub](https://github.com/Hariomkr147/Gyantra) |
 
 </details>
 
 <details>
-<summary><b>🎬 Cinema Audience Forecasting</b></summary>
-<br>
+<summary><strong>Cinema Audience Forecasting</strong> — Machine Learning, Python, NumPy, Pandas, Matplotlib</summary>
 
-Machine learning models to forecast cinema audience demand from historical sales and attendance data.
+<br/>
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | Python, Pandas, NumPy, Scikit-learn, Matplotlib |
-| **Scale** | Multi-feature historical dataset with engineered demand indicators |
-| **Performance** | Benchmarked multiple regression/classification models for forecast accuracy |
-| **Security** | Data validation and preprocessing checks for consistency |
-| **Impact** | Actionable demand forecasts to support scheduling and inventory decisions |
-| **Repository** | [github.com/Hariomkr147/Cinema-Audience-Forecasting-challenge](https://github.com/Hariomkr147/Cinema-Audience-Forecasting-challenge) |
+Built and evaluated machine learning models to forecast cinema audience demand using historical data, with preprocessing, feature engineering, and statistical analysis.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| Python, NumPy, Pandas, Matplotlib, ML models | Forecasting and evaluation workflow | Improved model readiness through feature engineering and data preparation | Dataset-driven analysis with controlled modeling workflow | Supported audience-demand prediction and model evaluation | [GitHub](https://github.com/Hariomkr147/Cinema-Audience-Forecasting-challenge) |
 
 </details>
 
 <details>
-<summary><b>🎓 Placement Portal — Full-Stack Recruitment Platform</b></summary>
-<br>
+<summary><strong>Placement Portal</strong> — Flask, Vue.js, SQLite</summary>
 
-Full-stack placement management platform with role-based workflows for Admin, Company, and Student users.
+<br/>
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | Flask, Vue.js, SQLite, REST APIs |
-| **Scale** | Three-role platform with company onboarding and job-posting approval flows |
-| **Performance** | RESTful API-driven frontend/backend integration |
-| **Security** | Role-based access control across all workflows |
-| **Impact** | Streamlined end-to-end campus recruitment operations |
-| **Repository** | [github.com/Hariomkr147/placement-portal](https://github.com/Hariomkr147/placement-portal) |
+Designed and developed a full-stack placement management platform using Flask REST APIs, Vue.js frontend, and SQLite database.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| Flask, Vue.js, SQLite, REST APIs | Admin, Company, Student workflows | Streamlined approval and posting workflows | Role-based access control | Simplified placement operations and recruitment flow | [GitHub](https://github.com/Hariomkr147/placement-portal) |
 
 </details>
 
 <details>
-<summary><b>💧 BDM Capstone — Business Analytics Case Study</b></summary>
-<br>
+<summary><strong>Vehicle Parking Application</strong> — Flask, SQLite</summary>
 
-End-to-end business analytics case study for a water purification company, from raw data cleaning to strategic recommendations.
+<br/>
 
-| Aspect | Detail |
-|---|---|
-| **Stack** | Excel (Pivot Tables, Financial Modeling), Power BI |
-| **Scale** | 61 days of unstructured sales/pricing data across 5 SKUs |
-| **Performance** | Automated revenue, profitability, and fixed-cost computations |
-| **Security** | N/A — offline business dataset |
-| **Impact** | Net Profit Ratio, ROCE, ROA, and Asset Turnover benchmarking drove product-diversification and pricing recommendations |
-| **Repository** | [github.com/Hariomkr147/bdm-project](https://github.com/Hariomkr147/bdm-project) |
+Developed a web-based parking management system for slot allocation, booking, and user activity tracking.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|---|---|---|---|---|---|
+| Flask, SQLite, booking logic, database workflows | Parking allocation and booking system | Automated allocation improved operational efficiency | Database-backed workflow control | Improved parking availability tracking and booking history | [GitHub](https://github.com/Hariomkr147/vehicle-parking-app) |
 
 </details>
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Backend Developer — Kartavya *(Academic Team Project)*
-**IITM Software Engineering** · Current
+**Backend Developer, Kartavya (Academic Team Project)**  
+IIT Madras — Current
 
-Civic complaint-management platform built with a five-member Scrum team.
+- Designed normalized database tables and relationships for users, zones, complaints, evidence, points, badges, and complaint history.
+- Implemented geo-proximity complaint grouping using the Haversine formula and supported zone-based complaint routing.
+- Built backend logic for complaint lifecycle workflows, audit trails, and role-based access control.
+- Collaborated in a five-member Scrum-based GitHub workflow with issues, pull requests, and code review.
 
-- Designed normalized database tables for users, zones, complaints, evidence, points, badges, and complaint history
-- Implemented geo-proximity complaint grouping using the Haversine formula with zone-based routing
-- Built complaint lifecycle workflows, audit trails, and role-based access control
-- Collaborated via GitHub issues, pull requests, and code review in a Scrum workflow
-
-`Flask` `SQLAlchemy` `REST APIs` `SQLite` `Scrum` `GitHub`
+**Skills:** `Python` `SQL` `Database Design` `Backend Development` `REST APIs` `GitHub Workflows` `RBAC` `Haversine`
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🥇 Winner — IPL Auction Showdown 4.0 | IITM Paradox 2026 |
-| 🥈 Runner-up — IPL Arena | IITM Paradox 2024 |
-| 🎖️ Participant — DataVista Analytics Competition | IITM Paradox 2025 |
-| 🎖️ Participant — TradeQuest 2024 | IIT Madras |
+| Winner, IPL Auction Showdown 4.0 | IITM Paradox 2026 |
+| Runner-up, IPL Arena | IITM Paradox 2024 |
+| Participant, DataVista Analytics Competition | IITM Paradox 2025 |
+| Participant, TradeQuest | 2024 |
 
 </div>
 
 ---
 
-## 📜 Certifications
+## Certifications
 
-**IIT Madras**
+### AWS
+- [AWS certificate folder](https://drive.google.com/drive/u/1/folders/1h70R4hI5bztteLqMsfR7O3o7f-qrJVZm)
 
-![ML & Data Science](https://img.shields.io/badge/Advanced%20Certificate-ML%20%26%20Data%20Science-6D28D9?style=flat-square)
-![Programming](https://img.shields.io/badge/Advanced%20Certificate-Programming%20%26%20App%20Dev-6D28D9?style=flat-square)
-![Foundational](https://img.shields.io/badge/Foundational%20Level-Programming%20%26%20Data%20Science-4C1D95?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-Interactive%20Dashboards-7C3AED?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-ML%20Techniques-7C3AED?style=flat-square)
-![Text Analysis](https://img.shields.io/badge/Paradox'25-Text%20Analysis%20with%20scikit--learn-4C1D95?style=flat-square)
-![GenAI](https://img.shields.io/badge/Paradox'24-GenAI%20Use%20Cases%20%26%20Solutions-4C1D95?style=flat-square)
+### Oracle
+- [Oracle certificate folder](https://drive.google.com/drive/u/1/folders/1h70R4hI5bztteLqMsfR7O3o7f-qrJVZm)
 
-**HackerRank**
+### NPTEL
+- [NPTEL certificate folder](https://drive.google.com/drive/u/1/folders/1h70R4hI5bztteLqMsfR7O3o7f-qrJVZm)
 
-![SQL](https://img.shields.io/badge/SQL-Advanced%20Certification-3B82F6?style=flat-square&logo=hackerrank&logoColor=white)
+### Cisco
+- [Cisco certificate folder](https://drive.google.com/drive/u/1/folders/1h70R4hI5bztteLqMsfR7O3o7f-qrJVZm)
 
-**Independent Courses**
+### IIT Madras & Other
+- [IIT Madras certificate folder](https://drive.google.com/drive/u/1/folders/1h70R4hI5bztteLqMsfR7O3o7f-qrJVZm)
 
-![Machine Learning](https://img.shields.io/badge/Course-Machine%20Learning%20Using%20Python-6D28D9?style=flat-square)
-![Cloud Computing](https://img.shields.io/badge/Course-Introduction%20to%20Cloud%20Computing-6D28D9?style=flat-square)
-
----
-
-## 💻 Coding Profiles
-
-> Update the links below with your actual handles on each platform.
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Hariomkr147)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/Hariomkr147)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/Hariomkr147)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-3B82F6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Hariomkr147)
+<p>
+  <img src="https://img.shields.io/badge/Advanced%20Certificate-Machine%20Learning%20%26%20Data%20Science-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Advanced%20Certificate-Programming%20%26%20Application%20Development-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foundational%20Level-Programming%20%26%20Data%20Science-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-Interactive%20Dashboards-4C1D95?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML%20with%20NumPy-Implementation-5B21B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-Advanced-7E22CE?style=for-the-badge" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## Coding Profiles
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hariomkr147&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hariomkr147&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
-
-<img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariomkr147&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Analytics
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hariomkr147&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hariomkr147&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariomkr147&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Hariomkr147&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## GitHub Trophies
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariomkr147&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff)
+<img src="https://github-profile-trophy.vercel.app/?username=Hariomkr147&theme=onedark&row=1&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hariomkr147/Hariomkr147/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hariomkr147/Hariomkr147/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Hariomkr147/Hariomkr147/output/github-contribution-grid-snake.svg" />
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hariomkr147&theme=tokyo-night&bg_color=0d1117&color=9f7aea&line=7c3aed&point=f8fafc&area=true&hide_border=true" />
 
 </div>
 
-> Requires the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action on this profile repo to generate the `output` branch SVGs.
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?username=Hariomkr147&theme=github-dark" />
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
-Learning:   Advanced LLM Orchestration, Multi-Agent Systems, Distributed Systems
-Building:   AI-powered education tools & business analytics platforms
-Exploring:  Retrieval-Augmented Generation, Cloud-Native Architectures
-Open To:    Software Engineering Roles · AI/ML Engineering Roles · Full-Stack Opportunities
+learning:
+  - Advanced machine learning workflows
+  - Full-stack product engineering
+  - Source-grounded LLM systems
+building:
+  - Reliable backend services
+  - Interview-ready project portfolio
+  - Better data-driven applications
+exploring:
+  - Cloud-native development
+  - Generative AI workflows
+  - Scalable database design
+open_to:
+  - Software engineering roles
+  - Backend / full-stack roles
+  - AI/ML engineering opportunities
 ```
 
 ---
 
-## 📬 Connect
+## Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-23f2004225%40ds.study.iitm.ac.in-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23f2004225@ds.study.iitm.ac.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hariomiitm-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariomiitm/)
-[![GitHub](https://img.shields.io/badge/GitHub-Hariomkr147-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hariomkr147)
+<p align="center">
+  <a href="mailto:hari18525@gmail.com"><img src="https://img.shields.io/badge/Gmail-hari18525%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hariomiitm/"><img src="https://img.shields.io/badge/LinkedIn-Hariom%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Hariomkr147"><img src="https://img.shields.io/badge/GitHub-Hariomkr147-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Hariomkr147?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-GitHub%20Repos-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+</p>
 
 ---
 
 <div align="center">
 
-*"Build things that make someone else's work simpler, safer, or faster."*
+> Building reliable software at the intersection of data, engineering, and AI.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1446,50:4c1d95,100:7c3aed&height=120&section=footer" width="100%"/>
 
 </div>
-](https://github.com/Platane/snk)
