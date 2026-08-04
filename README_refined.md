@@ -217,17 +217,6 @@ Civic complaint-management platform built with a five-member Scrum team.
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hariomkr147&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -243,11 +232,7 @@ Civic complaint-management platform built with a five-member Scrum team.
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hariomkr147/Hariomkr147/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hariomkr147/Hariomkr147/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Hariomkr147/Hariomkr147/output/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="github contribution snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?username=Hariomkr147&theme=github-dark" />
 
 </div>
 
